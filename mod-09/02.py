@@ -26,7 +26,6 @@ class Auto:
             self.tamanhetkinen_nopeus = 0
 
 
-
 auto = Auto("ABC-123", 142)
 
 auto.kiihdyta(30)
