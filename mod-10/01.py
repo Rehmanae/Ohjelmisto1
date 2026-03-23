@@ -33,7 +33,7 @@ class Hissi:
                 self.alas()
 
 
-# testaus
+# Pääohjelma
 hissi = Hissi(1, 10)
 hissi.mene(6)
 hissi.mene(1)
